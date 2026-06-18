@@ -9,14 +9,15 @@ import nl from '../locales/nl.json'
 i18n
     .use(initReactI18next)
     .init({
-        fallbackLng: 'es',
+        lng: 'en',
+        fallbackLng: 'en',
         debug: true,
         resources: {
             en: { translation: en },
             es: { translation: es },
-            fr: { translation: fr},
-            de: { translation: de},
-            nl: { translation: nl},
+            fr: { translation: fr },
+            de: { translation: de },
+            nl: { translation: nl },
 
         }
     })
