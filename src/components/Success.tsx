@@ -64,7 +64,7 @@ const Success = () => {
                     </div>
 
                     <div className='success-buttons'>
-                        <Button htmlType='submit' className='success-repeat-button' onClick={() => navigate('/form')}>
+                        <Button htmlType='submit' className='success-repeat-button' onClick={() => navigate('/terms')}>
                             {t("success.complete")}
                         </Button>
                         <Button type='default' className='success-home-button' onClick={() => navigate('/')}>
