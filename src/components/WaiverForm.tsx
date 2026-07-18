@@ -9,6 +9,8 @@ import dayjs, { Dayjs } from "dayjs"
 import { Form, Button, Checkbox, DatePicker, Input, Space, Row, Col, InputNumber } from 'antd'
 import { useTranslation } from 'react-i18next'
 
+import { SignWarning } from './SignWarning'
+
 
 export type WaiverFormData = {
     name: string
@@ -488,6 +490,11 @@ const WaiverForm = () => {
                             <div className="card-description">{t("form.signatureDesc")}</div>
 
 
+                            {isUnderAge && (
+                                <SignWarning />
+                            )}
+
+
                             {/** Signature, cannot be empty*/}
                             <Form.Item
                                 name="signature"
@@ -510,7 +517,7 @@ const WaiverForm = () => {
                     </div>
 
 
-                    {/** Terms and shipping */}
+                    {/** Terms */}
                     <div className="form-card">
                         <Form.Item
                             name={"terms"}

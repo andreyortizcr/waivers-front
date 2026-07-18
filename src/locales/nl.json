@@ -75,7 +75,8 @@
         "termsError": "Je moet de voorwaarden accepteren",
         "security": "Je persoonlijke informatie wordt beschermd en uitsluitend voor veiligheidsdoeleinden gebruikt.",
         "submitButton": "Formulier verzenden",
-        "submitButtonLoading": "Vrijwaring wordt verzonden"
+        "submitButtonLoading": "Vrijwaring wordt verzonden",
+        "signWarning": "Handtekening van de verantwoordelijke"
     },
     "success": {
         "title": "Formulier succesvol verzonden",

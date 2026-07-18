@@ -1,0 +1,14 @@
+.sign-warning {
+    background-color: #fecaca;
+    border: 1px solid #dc2917;
+    color: #991b1b;
+    padding: 0.4rem 1rem;
+    border-radius: 0.7rem;
+    display: flex;
+    align-items: flex-start;
+    text-align: justify;
+    max-width: fit-content;
+    margin-bottom: 1.5rem;
+    font: bold;
+    font-size: 1rem;
+}

@@ -75,7 +75,8 @@
         "termsError": "Vous devez accepter les termes",
         "security": "Vos informations personnelles seront protégées et utilisées uniquement à des fins de sécurité.",
         "submitButton": "Envoyer le formulaire",
-        "submitButtonLoading": "Envoi du waiver"
+        "submitButtonLoading": "Envoi du waiver",
+        "signWarning": "Signature du responsable"
     },
     "success": {
         "title": "Formulaire envoyé avec succès",

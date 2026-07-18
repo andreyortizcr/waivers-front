@@ -75,7 +75,8 @@
         "termsError": "You must confirm the terms",
         "security": "Your personal information will be protected and used only for safety purposes.",
         "submitButton": "Submit Form",
-        "submitButtonLoading": "Submitting Waiver"
+        "submitButtonLoading": "Submitting Waiver",
+        "signWarning": "Signature of the person in charge"
     },
     "success": {
         "title": "Form successfully submitted",

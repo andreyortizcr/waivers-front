@@ -75,7 +75,8 @@
         "termsError": "Du musst den Bedingungen zustimmen",
         "security": "Deine persönlichen Informationen werden geschützt und ausschließlich zu Sicherheitszwecken verwendet.",
         "submitButton": "Formular absenden",
-        "submitButtonLoading": "Haftungsausschluss wird gesendet"
+        "submitButtonLoading": "Haftungsausschluss wird gesendet",
+        "signWarning": "Unterschrift des Verantwortlichen"
     },
     "success": {
         "title": "Formular erfolgreich gesendet",

@@ -75,7 +75,8 @@
         "termsError": "Debe confirmar los términos",
         "security": "Su información personal será protegida y utilizada únicamente para fines de seguridad.",
         "submitButton": "Enviar Formulario",
-        "submitButtonLoading": "Enviando Waiver"
+        "submitButtonLoading": "Enviando Waiver",
+        "signWarning": "Firma del encargado"
     },
     "success": {
         "title": "Formulario enviado correctamente",
